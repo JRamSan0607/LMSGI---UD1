@@ -1,0 +1,9 @@
+<ciudades>
+    <nombre>Nueva Delhi</nombre>
+    <pais continente = "Ásia">India</pais>
+    <nombre>Nueva Delhi</nombre>
+    <nombre>Lisboa</nombre>
+    <pais continente = "Portugal">Europa</pais>
+    <nombre>El Cairo</nombre>
+    <pais continente = "Egipto">África</pais>
+</ciudades>

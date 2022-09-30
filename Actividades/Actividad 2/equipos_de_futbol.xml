@@ -1,0 +1,30 @@
+<equipos>
+    <equipo>
+        <nombre entrenador = "Carlos Ancelotti">Real Madrid</nombre>
+        <ciudad pais = "España">Madrid</ciudad>
+            <jugadores>
+                <jugador>
+                    <nombre nacionalidad = "Croata">Luka Môdric</nombre>
+                    <posicion>Centro campista</posicion>
+                </jugador>
+                <jugador>
+                    <nombre nacionalidad = "Brasileño">Rodrygo Gomes</nombre>
+                    <posicion>Extremo Derecho / Delantero</posicion>
+                </jugador>
+            </jugadores>
+    </equipo>
+    <equipo>
+        <nombre entrenador = "Xavi Hernández">F.C Barcelona</nombre>
+        <ciudad pais = "España">Barcelona</ciudad>
+            <jugadores>
+                <jugador>
+                    <nombre nacionalidad = "Español">Pedro</nombre>
+                    <posicion>Centro campista</posicion>
+                </jugador>
+                <jugador>
+                    <nombre nacionalidad = "Alemán">Ter Stegen</nombre>
+                    <posicion>Portero</posicion>
+                </jugador>
+            </jugadores>
+    </equipo>
+</equipos>
