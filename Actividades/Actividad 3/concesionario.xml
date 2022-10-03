@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<concesionario>
+    <modelo marca="Audi">R8
+        <cv>620</cv>
+        <puertas>2</puertas>
+        <consumo>12,6-12,9l/100km</consumo>
+        <precio>199.000€</precio>
+    </modelo>
+    <modelo marca="Toyota">Supra MK4 Biturbo
+        <cv>330</cv>
+        <puertas>2</puertas>
+        <consumo>11l/100km</consumo>
+        <precio>49.950€</precio>
+    </modelo>
+    <modelo marca="Nissan">
+        <cv>400</cv>
+        <puertas>4</puertas>
+        <consumo>14.7l/100km</consumo>
+        <precio>66700€</precio>
+    </modelo>
+</concesionario>

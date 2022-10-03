@@ -1,5 +1,12 @@
-<hechos-historicos>
-    <fecha descripcion = "IBM da a conocer el PC.">12/8/1981</fecha>
-    <fecha descripcion = "Se funda Google.">4/9/1998</fecha>
-    <fecha descripcion = "Se funda Facebook.">4/2/2004</fecha>
-</hechos-historicos>
+<?xml version="1.0" encoding="UTF-8"?>
+<momentos-importantes>
+    <noticia>
+        <fecha descripcion = "IBM da a conocer el PC.">12/8/1981</fecha>
+    </noticia>
+    <noticia>
+        <fecha descripcion = "Se funda Google.">4/9/1998</fecha>
+    </noticia>
+    <noticia>
+        <fecha descripcion = "Se funda Facebook.">4/2/2004</fecha>
+    </noticia>
+</momentos-importantes>

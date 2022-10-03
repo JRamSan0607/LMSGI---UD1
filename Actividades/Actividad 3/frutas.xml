@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<frutas>
+<comidas>
     <fruta>
         <nombre>Cereza</nombre>
     </fruta>
     <fruta>
         <nombre>Naranja</nombre>
     </fruta>
-</frutas>
+    <dulce>
+        <nombre>Chapela</nombre>
+    </dulce>
+    <chacina>
+        <nombre>Canya de Lomo</nombre>
+    </chacina>
+    <postre>
+        <nombre>Flan de Huevo</nombre>
+    </postre>
+</comidas>

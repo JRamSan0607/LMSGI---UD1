@@ -1,9 +1,15 @@
-<ciudades>
+<?xml version="1.0" encoding="UTF-8"?>
+<turismo>
     <nombre>Nueva Delhi</nombre>
-    <pais continente = "Ásia">India</pais>
-    <nombre>Nueva Delhi</nombre>
+        <pais continente = "Ásia">India</pais>
+        <clima>Cálido</clima>
+    <nombre>Londres</nombre>
+        <pais continente = "Francia">Europa</pais>
+        <clima>Fresco</clima>
     <nombre>Lisboa</nombre>
-    <pais continente = "Portugal">Europa</pais>
+        <pais continente = "Portugal">Europa</pais>
+        <clima>Verano cálido e invierno frío y húmedo</clima>
     <nombre>El Cairo</nombre>
-    <pais continente = "Egipto">África</pais>
-</ciudades>
+        <pais continente = "Egipto">África</pais>
+        <clima>Días calurosos y noches frías</clima>
+</turismo>

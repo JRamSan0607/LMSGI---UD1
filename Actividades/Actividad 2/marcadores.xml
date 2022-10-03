@@ -1,5 +1,6 @@
-<marcadores>
-    <nombre>Abrirllave</nombre>
+<?xml version="1.0" encoding="UTF-8"?>
+<paginasWeb-interesantes>
+    <nombre>Abrir llave</nombre>
     <descripcion>Tutoriales de Informática</descripcion>
     <URL>http://www.abrirllave.com/"></URL>
     <nombre>Wikipedia</nombre>
@@ -8,4 +9,4 @@
     <nombre>W3C</nombre>
     <descripcion>World Wide Web Consortium.</descripcion>
     <URL>http://www.w3.org/</URL>
-</marcadores>
+</paginasWeb-interesantes>

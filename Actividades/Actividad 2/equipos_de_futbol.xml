@@ -1,22 +1,23 @@
-<equipos>
+<?xml version="1.0" encoding="UTF-8"?>
+<La-liga-santander>
     <equipo>
         <nombre entrenador = "Carlos Ancelotti">Real Madrid</nombre>
         <ciudad pais = "España">Madrid</ciudad>
-            <jugadores>
+            <mejores-jugadores>
                 <jugador>
                     <nombre nacionalidad = "Croata">Luka Môdric</nombre>
                     <posicion>Centro campista</posicion>
                 </jugador>
                 <jugador>
-                    <nombre nacionalidad = "Brasileño">Rodrygo Gomes</nombre>
-                    <posicion>Extremo Derecho / Delantero</posicion>
+                    <nombre nacionalidad = "Brasileño">Rodrygo Goes</nombre>
+                    <posicion>Extremo Derecho/Delantero</posicion>
                 </jugador>
-            </jugadores>
+            </mejores-jugadores>
     </equipo>
     <equipo>
         <nombre entrenador = "Xavi Hernández">F.C Barcelona</nombre>
         <ciudad pais = "España">Barcelona</ciudad>
-            <jugadores>
+            <mejores-jugadores>
                 <jugador>
                     <nombre nacionalidad = "Español">Pedro</nombre>
                     <posicion>Centro campista</posicion>
@@ -25,6 +26,6 @@
                     <nombre nacionalidad = "Alemán">Ter Stegen</nombre>
                     <posicion>Portero</posicion>
                 </jugador>
-            </jugadores>
+            </mejores-jugadores>
     </equipo>
-</equipos>
+</La-liga-santander>
